@@ -1,2 +1,35 @@
+
+# OS-specific
 .DS_Store
+Thumbs.db
+
+# Editor settings
 .vscode/
+.idea/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+*.ipynb~
+
+# Logs
+*.log
+
+# Data files (keep only cleaned or final versions under version control)
+*.sqlite
+*.db
+*.bak
+*.tmp
+*.swp
+
+# Large raw data (optional: keep only source-controlled CSVs you want)
+data/raw/*
+!data/raw/README.md
+
+# Environment / secrets
+.env
+*.key
+*.pem

@@ -1,6 +1,6 @@
 # WorldLife-Expectancy-EDA
 
-<img src="system.png" alt="Project Diagram" width="400" style="border:2px solid white;" >
+<img src="system.png" alt="Project Diagram" style="border:2px solid white;" >
 
 ## Key Takeaways
 
